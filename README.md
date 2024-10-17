@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Inventory Management Project<br>🤝 I’m looking for help with DSA<br>🌱 I’m currently learning React JS, AWS, Tailwind CSS, Backend Engineering<br>💬 Ask me about HTML, CSS, JavaScript and Project ideas<br>⚡ Fun fact - I am Iron Man.
+🔭 I’m currently working on (Updating....)<br>🤝 I’m looking for help with DSA<br>🌱 I’m currently learning React JS, AWS, Tailwind CSS, Backend Engineering<br>💬 Ask me about HTML, CSS, JavaScript and Project ideas<br>⚡ Fun fact - I am Iron Man.
 
 
 ## 🌐 Socials:
